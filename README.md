@@ -4,6 +4,6 @@
 
 ## links
 
-- Live Site URL: [https://stefanodecapitani.github.io/faq-accordion-card/](https://stefanodecapitani.github.io/faq-accordion-card/)
+- Live Site URL: [https://lostcde.github.io/faq-accordion-card-main/](https://lostcde.github.io/faq-accordion-card-main/)
 
 
