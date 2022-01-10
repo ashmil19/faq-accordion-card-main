@@ -4,6 +4,6 @@
 
 ## links
 
-- Live Site URL: [https://lostcde.github.io/faq-accordion-card-main/](https://lostcde.github.io/faq-accordion-card-main/)
+- Live Site URL: [https://ashmil19.github.io/faq-accordion-card-main/](https://ashmil19.github.io/faq-accordion-card-main/)
 
 
